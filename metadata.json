@@ -1,6 +1,5 @@
 const metadata = {
     name: "DOUNUTNPICKLEE",
     symbol: "DNPT",
-    image: "https://github.com/Doughnutnpickle/DEV/blob/main/DPT.png",
-   
+    image: "https://github.com/Doughnutnpickle/DEV/blob/main/DPT.png"
     };
